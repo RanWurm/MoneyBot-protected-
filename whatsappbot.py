@@ -9,7 +9,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # -------------------- WhatsApp Bot Logic --------------------
 
-# URL of your relay server - change this to your actual Vercel deployment URL
 RELAY_SERVER_URL = "deployed relay server url"
 
 def setup_driver():
